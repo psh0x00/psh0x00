@@ -3,7 +3,7 @@
 
 <div align="left">
   <h3>Software Engineer | Backend & Systems Architecture</h3>
-  <p>Final-year Informatics Engineering student passionate about what makes systems tick under the hood. I focus on building software infrastructure that is fast, secure, and scalable — from orchestrating microservices to designing resilient APIs.</p>
+  <p>Final-year Software Engineering student passionate about what makes systems tick under the hood. I focus on building software infrastructure that is fast, secure, and scalable — from orchestrating microservices to designing resilient APIs.</p>
 </div>
 
 🌱 Currently diving into **Rust** and systems programming.
