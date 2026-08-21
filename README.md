@@ -2,8 +2,8 @@
 # Hi! I'm psh0x00 (Guilherme Jorge) 👋
 
 <div align="left">
-  <h3>Software Engineer | Backend & Systems Architecture</h3>
-  <p>Final-year Software Engineering student passionate about what makes systems tick under the hood. I focus on building software infrastructure that is fast, secure, and scalable — from orchestrating microservices to designing resilient APIs.</p>
+  <h3>Computer Engineer | Backend & Systems Architecture</h3>
+  <p>Final-year Computer Engineering student passionate about what makes systems tick under the hood. I focus on building software infrastructure that is fast, secure, and scalable — from orchestrating microservices to designing resilient APIs.</p>
 </div>
 
 🌱 Currently diving into **Rust** and systems programming.
