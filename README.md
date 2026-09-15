@@ -36,7 +36,7 @@ My toolbelt reflects my adaptability and passion for robust systems engineering:
 ---
 
 ### 🚀 Featured Projects
-
+*   **[JobPulse](https://github.com/psh0x00/JobPulse)**: A production-grade REST API built with Java 21 and Spring Boot 4 to track job applications, interviews, and follow-ups. Features include JWT authentication, Redis caching, scheduled background tasks, and a full CI/CD pipeline with GitHub Actions. Deployed live on Railway with a multi-stage Docker build.
 *   **[WardrobeManager](https://github.com/psh0x00/WardrobeManager)**: A Docker-orchestrated platform featuring an asynchronous FastAPI backend, supported by PostgreSQL (SQLAlchemy + Alembic). Focused on managing datasets for Machine Learning pipelines.
 *   **[Workflow Engine](https://github.com/psh0x00/gestor-workflow)**: An enterprise-grade engine built with C# .NET Core and SQL Server, leveraging Finite State Machines (FSM) for granular management of transitions and permissions.
 *   **[CampusServiceManagement](https://github.com/psh0x00/CampusServiceManagement)**: An offline-first Android application (Kotlin/Clean Architecture) featuring robust bidirectional synchronization between Room (SQLite) and Firebase via WorkManager.
